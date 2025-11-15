@@ -1,127 +1,124 @@
-# 🚀 Welcome to the Home of Best DevOps Resources  
-**Faizan | DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD**
+# Faizan Kaishar — Cloud & DevOps Engineer
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/faizan-kaishar-5b53a7235) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:faizankaishar95@gmail.com)
+
+## 🚀 About Me
+
+I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience building and automating cloud infrastructure, CI/CD pipelines, and observability for reliable, scalable systems. I have practical experience with AWS, Terraform, Ansible, Docker, Kubernetes, Jenkins, GitHub Actions, and Python scripting — and a background in manufacturing automation which gives me a strong operational mindset.
+
+* 📍 Based in: Noida, Uttar Pradesh, India
+* 📧 Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
 
 ---
 
-## 👋 About Me  
-Hey there! I’m **Faizan**, a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.  
+## 🛠️ Tech Stack
 
-Let’s innovate, automate, and optimize! ⚙️  
+**Cloud / Infra:** AWS (EC2, S3, RDS, VPC, IAM, CloudWatch, EKS)
 
----
+**IaC & Automation:** Terraform, Ansible, CloudFormation (familiar)
 
-## 💫 About Me — Your DevOps Guide  
+**CI/CD & DevOps:** Jenkins, GitHub Actions, Docker, Helm, Kubernetes (EKS)
 
-### 🌩️ What I Do  
-#### Cloud & DevOps Specialist  
-- Architect scalable cloud infrastructures  
-- Expertise in **AWS, Azure, and Kubernetes**
+**Monitoring & Logging:** Prometheus, Grafana, CloudWatch
 
-#### 🤖 Automation Enthusiast  
-- Design and manage **CI/CD pipelines**  
-- Implement **Infrastructure as Code (IaC)** using **Terraform** and **Ansible**
-
-#### 📝 Content Creator  
-- Share technical blogs, DevOps tutorials, and open-source projects  
+**Languages & Scripting:** Python, Bash
 
 ---
 
-## 🔗 Quick Links  
-📁 [Portfolio](#) 📄 [Resume](#) 📰 [Blog](#) 🌐 [All Links](#)
+## 📂 Projects (Highlights)
+
+> Each project folder contains a README with setup steps, architecture diagram, and demo instructions.
+
+### 1. MES Data Pipeline — AWS + Terraform + Ansible (mes-project)
+
+**Stack:** AWS (S3, RDS), Terraform, Ansible, Docker, GitHub Actions, CloudWatch
+
+Short: A simulated Manufacturing Execution System pipeline that collects simulated factory telemetry, stores raw data in S3 and structured records in RDS, and deploys via Terraform + Ansible with automated CI/CD. Includes CloudWatch metrics and alarms for observability.
+
+**Repo:** `./mes-project` — see `README.md` inside for infra commands, architecture diagram (`/docs/mes-architecture.png`), and demo scripts to generate simulated sensor data.
 
 ---
 
-## 🌐 DevOps Learning Hub  
-> **Empowering DevOps & Cloud Learners — One Resource at a Time**  
+### 2. Microservices on AWS (microservices-aws)
 
-Your one-stop destination for comprehensive DevOps knowledge and practical resources.
+**Stack:** Java microservices, Docker, Kubernetes (EKS), Helm, Terraform, Jenkins
 
-### 📚 Learning Resources  
-- 💻 **Real-Time Projects Hub** — Hands-on DevOps projects from beginner to advanced  
-- 📚 **Ultimate Docs Portal** — 900+ curated DevOps learning materials  
-- 📦 **Repositories Central** — Collection of scripts, infrastructure code & interview prep  
-- 🧭 **Jobs Portal** — Find your next DevOps opportunity  
-- 📰 **DevOps Blog** — Deep dives into DevOps practices & tutorials  
-- ☁️ **Cloud Blog** — Cloud architecture & implementation guides  
-- 🐳 **Docker to Kubernetes** — Master containerization journey  
-- 🔬 **DevOps Engineering Lab** — Hands-on CI/CD & automation setups  
-- 🛠️ **DevOps Tool Guides** — Setup & installation guides  
-- 📑 **DevOps Cheatsheet** — Comprehensive tools & practices  
-- 🔧 **DevOps Environment Toolkit** — Ready-to-use local setup  
-- 🧰 **DevOps Tools Collection** — Essential tools for deployment & monitoring  
-- 📊 **Monitoring in a Box** — Prometheus + Grafana + Loki + Alertmanager stack  
-- ✨ **Awesome DevOps UI** — Beautiful UI-based DevOps tools  
-- 🎓 **K8s Learning Path** — From beginner to Certified Kubernetes Administrator (CKA)  
-- 📈 **Kubernetes Dashboard** — Integrated with Trivy scanning and pod monitoring  
+Short: End-to-end microservices deployment on AWS EKS with automated Jenkins pipelines, Helm charts, and HPA-based scaling.
+
+**Repo:** `./microservices-aws` — includes Helm charts, Terraform infra modules, and CI config.
 
 ---
 
-## 🎯 Our Mission  
-We believe **DevOps knowledge should be accessible to everyone.**
+### 3. Hybrid CI/CD & Secure Pipeline (hybrid-ci-cd)
 
-Core values:  
-🔓 Breaking down paywalls 🛠️ Learning by building 🤝 Community growth 📈 Continuous improvement  
-🌟 Practical experience 🌍 Global community 💡 Innovation through collaboration  
+**Stack:** GitHub Actions, Jenkins, Trivy, Docker, ECR, EKS
 
----
+Short: A hybrid CI/CD workflow demonstrating code scanning, container image build & signing, and automated deploys to EKS with rollback on failed checks.
 
-## 🤝 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)  
-- [GitHub](https://github.com/FaizanKaishar)  
-- [Telegram](#)  
-- [Email](mailto:faizankaishar95@gmail.com)
+**Repo:** `./hybrid-ci-cd` — contains pipeline YAMLs and example policies.
 
 ---
 
-## 📂 Featured Repositories  
-### 🌟 Popular Projects  
-- [DevOps Real-Time Projects](#)  
-- [Kubernetes Learning Path](#)  
-- [1100+ DevOps Interview Questions](#)  
-- [AWS DevOps Real-Time Deployment](#)
+## 📋 How to run (example)
 
-### 🔧 Tools & Guides  
-- [CI/CD Pipeline for AWS EKS](#)  
-- [DevOps Tool Installer](#)  
-- [Azure DevOps Guide](#)  
-- [DevOps Cheatsheet](#)
+**Clone the repository:**
 
----
+```bash
+git clone https://github.com/<your-github>/faizan-devops-portfolio.git
+cd mes-project
+```
 
-## 📝 Latest Blog Posts  
-- ✍️ *Scripting in DevOps*  
-- 🧠 *Linux Filesystem Guide*  
-- 🐳 *Docker Concepts*  
-- ☸️ *Kubernetes Concepts*
+**Terraform (example):**
 
----
+```bash
+cd terraform
+terraform init
+terraform plan -var-file=envs/dev.tfvars
+terraform apply -auto-approve -var-file=envs/dev.tfvars
+```
 
-## ⚡ Tech Stack  
+**Ansible (bootstrap example):**
 
-| Category | Tools |
-|-----------|--------|
-| **Cloud & Platforms** | AWS, Azure, Google Cloud |
-| **DevOps & CI/CD** | Jenkins, GitHub Actions, GitLab CI |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm |
-| **IaC & Monitoring** | Terraform, Ansible, Prometheus, Grafana |
+```bash
+ansible-playbook -i inventory/prod.ini playbooks/deploy.yml --extra-vars "image_tag=latest"
+```
 
----
+**Generate demo data (simulator):**
 
-## 🏆 Community Achievements  
-🌟 5000+ GitHub Stars 🍴 1000+ Project Forks 👨‍💻 50+ Contributors  
-📚 900+ Curated Learning Resources 🌍 Active DevOps Community  
+```bash
+cd collector
+python3 simulator.py --rate 10
+```
 
 ---
 
-## 💝 Support My Work  
-> If you find my work valuable, consider supporting me — your support helps create more DevOps content and projects.  
+## 📈 Observability & Monitoring
 
-[GitHub Sponsors](#) [Ko-Fi](#) [Buy Me a Coffee](#)
+Each project includes Prometheus scraping endpoints and Grafana dashboards (JSON in `/monitoring`) plus CloudWatch Logs/metrics integration. See `/monitoring/dashboards.json` for dashboard exports.
 
 ---
 
-### 🚀 Join our growing DevOps community and make learning open for everyone!  
+## ✅ Resume & Contact
+
+* Resume: `Faizan_kaishar_DevOps_Engineer.pdf` (root) in this repo.
+* Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
+
 ---
 
-*© 2025 Faizan — DevOps Engineer & Cloud Automation Specialist*
+## 🤝 Contribution & Feedback
 
+I welcome feedback, issues, and PRs. If you want a live walkthrough or a short demo, reach out via email or LinkedIn and we can schedule a session.
+
+---
+
+## 📌 Notes & Roadmap
+
+* Add Terraform modules for EKS (modularized) and sample IaC templates for production-grade security.
+* Add demo GitHub Actions workflows with secrets and environment protection examples.
+* Add architecture diagrams in `/docs` (PNG + draw.io source) and an interactive README with badges.
+
+---
+
+*Built with ❤️ by Faizan — aiming to bridge manufacturing automation with cloud-native DevOps practices.*
