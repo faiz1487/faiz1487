@@ -10,13 +10,7 @@ I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience bui
 * 📧 Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
 
----
-<p align="center"> 
-  <a href="https://git.io/streak-stats"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Faizan kaishar&theme=algolia" alt="GitHub Streak" />
-  </a>
-</p>
---------
+
 <p>
   <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/></a>
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="70"/></a>
@@ -34,24 +28,7 @@ I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience bui
   <a href="https://code.visualstudio.com/"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/></a>
   <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" height="80"/></a>
 </p>
------
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077"/></p>
-</details>
 
-<details>
-  <summary><b>📈 Top Languages</b></summary>
-  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura"/></p>
-  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura"/></p>
-</details>
-
-<details>
-  <summary><b>🌟 Contributions</b></summary>
-  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby"/></p>
-</details>
-
-------
 
 ## 🛠️ Tech Stack
 
