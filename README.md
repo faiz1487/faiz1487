@@ -1,7 +1,7 @@
 # Faizan Kaishar — Cloud & DevOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/faizan-kaishar-5b53a7235) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:faizankaishar95@gmail.com)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz1487&label=Profile%20views&color=0e75b6&style=flat" alt="faiz1487" /> </p
 ## 🚀 About Me
 
 I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience building and automating cloud infrastructure, CI/CD pipelines, and observability for reliable, scalable systems. I have practical experience with AWS, Terraform, Ansible, Docker, Kubernetes, Jenkins, GitHub Actions, and Python scripting — and a background in manufacturing automation which gives me a strong operational mindset.
@@ -9,7 +9,7 @@ I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience bui
 * 📍 Based in: Noida, Uttar Pradesh, India
 * 📧 Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
-
+    >
 
 <p>
   <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/></a>
@@ -122,6 +122,16 @@ Each project includes Prometheus scraping endpoints and Grafana dashboards (JSON
 * LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
 
 ---
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=faiz1487&show_icons=true&count_private=true&theme=nightowl" />
+
+    
+</div>
+
+--- 
 
 ## 🤝 Contribution & Feedback
 
