@@ -9,7 +9,8 @@ I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience bui
 * 📍 Based in: Noida, Uttar Pradesh, India
 * 📧 Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
-    >
+  
+* <img width="20" height="20" alt="icons8-portfolio-24 (1)" src="https://github.com/user-attachments/assets/ac6938a9-c57c-4d6b-adc5-e90cdf9d5b44" /> portfolio: [https://faizankaishar.netlify.app](https://faizankaishar.netlify.app)
 
 <p>
   <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/></a>
