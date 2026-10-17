@@ -1,145 +1,151 @@
-<div align="center">
+# Faizan Kaishar — Cloud & DevOps Engineer
 
-<img src="./hero.svg" alt="Faizan Kaishar — Cloud and DevOps Engineer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/faizan-kaishar-5b53a7235) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:faizankaishar95@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz1487&label=Profile%20views&color=0e75b6&style=flat" alt="faiz1487" /> </p
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://faizankaishar.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankaishar95@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-faiz1487-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faiz1487)
+I’m **Faizan Kaishar**, a Cloud & DevOps Engineer with hands-on experience building and automating cloud infrastructure, CI/CD pipelines, and observability for reliable, scalable systems. I have practical experience with AWS, Terraform, Ansible, Docker, Kubernetes, Jenkins, GitHub Actions, and Python scripting — and a background in manufacturing automation which gives me a strong operational mindset.
 
-![Profile Views](https://komarev.com/ghpvc/?username=faiz1487&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge)
+* 📍 Based in: Noida, Uttar Pradesh, India
+* 📧 Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
+  
+* <img width="20" height="20" alt="icons8-portfolio-24 (1)" src="https://github.com/user-attachments/assets/ac6938a9-c57c-4d6b-adc5-e90cdf9d5b44" /> portfolio: [https://faizankaishar.netlify.app](https://faizankaishar.netlify.app)
 
-<img src="./about-life.svg" alt="About Faizan and his approach to DevOps" width="100%" />
+<p>
+  <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="70"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="75"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80"/></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80"/></a>
+  <a href="https://helm.sh/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="80"/></a>
+  <a href="https://docs.gitlab.com/ee/ci/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="80"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80"/></a>
+  <a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80"/></a>
+  <a href="https://pages.github.com/"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/></a>
+  <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" height="80"/></a>
+</p>
 
-</div>
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-I'm **Faizan Kaishar**, a Cloud & DevOps Engineer based in **Noida, Uttar Pradesh, India**. I work with AWS infrastructure, Infrastructure as Code, container orchestration, CI/CD automation, and observability. My background in manufacturing automation informs how I approach reliable operations and system design.
+**Cloud / Infra:** AWS (EC2, S3, RDS, VPC, IAM, CloudWatch, EKS)
 
-- ☁️ **Cloud:** AWS (EC2, S3, RDS, VPC, IAM, CloudWatch, EKS); Azure
-- 🧱 **Infrastructure as Code:** Terraform, Ansible; familiar with CloudFormation
-- 🚀 **Delivery:** Docker, Kubernetes, Helm, Jenkins, GitHub Actions
-- 📊 **Observability:** Prometheus, Grafana, Amazon CloudWatch
-- 🐍 **Scripting:** Python, Bash, Linux
-- 🎯 **Focus:** Repeatable infrastructure, secure delivery, scalable services
+**IaC & Automation:** Terraform, Ansible, CloudFormation (familiar)
 
-<div align="center"><img src="./stack.svg" alt="Cloud, automation, CI/CD, observability and scripting technology stack" width="100%" /></div>
+**CI/CD & DevOps:** Jenkins, GitHub Actions, Docker, Helm, Kubernetes (EKS)
 
-## 🛠️ Tools & Technologies
+**Monitoring & Logging:** Prometheus, Grafana, CloudWatch
 
-<div align="center">
+**Languages & Scripting:** Python, Bash
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+---
 
-<img src="./id-dashboard.svg" alt="Developer ID and delivery pipeline dashboard" width="100%" />
+## 📂 Projects (Highlights)
 
-</div>
+> Each project folder contains a README with setup steps, architecture diagram, and demo instructions.
 
-<div align="center">
-<img src="./architecture.svg" alt="Cloud infrastructure architecture" width="100%" />
-</div>
+### 1. MES Data Pipeline — AWS + Terraform + Ansible (mes-project)
 
-## 📂 Featured DevOps Projects
+**Stack:** AWS (S3, RDS), Terraform, Ansible, Docker, GitHub Actions, CloudWatch
 
-<div align="center">
-<img src="./projects.svg" alt="Featured engineering projects" width="100%" />
-</div>
+Short: A simulated Manufacturing Execution System pipeline that collects simulated factory telemetry, stores raw data in S3 and structured records in RDS, and deploys via Terraform + Ansible with automated CI/CD. Includes CloudWatch metrics and alarms for observability.
 
-> These are project descriptions from my portfolio. Repository links below are relative placeholders until the project folders are published in this profile repository.
+**Repo:** `./mes-project` — see `README.md` inside for infra commands, architecture diagram (`/docs/mes-architecture.png`), and demo scripts to generate simulated sensor data.
 
-| Project | Overview | Stack |
-|:--|:--|:--|
-| 🏭 **[MES Data Pipeline](./mes-project)** | Simulated manufacturing telemetry pipeline: raw events in S3, structured records in RDS, automated provisioning and deployment, CloudWatch alarms. | AWS, Terraform, Ansible, Docker, GitHub Actions |
-| ☸️ **[Microservices on AWS](./microservices-aws)** | Containerized Java microservices on EKS with Helm deployments, Jenkins CI/CD and horizontal pod autoscaling. | Java, Docker, EKS, Helm, Terraform, Jenkins |
-| 🔐 **[Hybrid Secure CI/CD](./hybrid-ci-cd)** | Pipeline concept combining image scanning, image signing, ECR publishing, EKS deployment and rollback checks. | GitHub Actions, Jenkins, Trivy, Docker, ECR, EKS |
+---
 
-## 🔄 DevOps Delivery Lifecycle
+### 2. Microservices on AWS (microservices-aws)
 
-<div align="center">
-<img src="./pipeline.svg" alt="Source, build, secure, deploy and monitor delivery pipeline" width="100%" />
-</div>
+**Stack:** Java microservices, Docker, Kubernetes (EKS), Helm, Terraform, Jenkins
 
-```text
-💻 Code → 🧪 Test → 🏗️ Build → 🔐 Scan → 📦 Publish → ☸️ Deploy → 📊 Monitor
-   Git        CI        Docker      Trivy        ECR          EKS       Grafana
-```
+Short: End-to-end microservices deployment on AWS EKS with automated Jenkins pipelines, Helm charts, and HPA-based scaling.
 
-## 📈 GitHub Dashboard
+**Repo:** `./microservices-aws` — includes Helm charts, Terraform infra modules, and CI config.
 
-> Stats widgets are third-party services and may be temporarily unavailable or rate-limited.
+---
 
-<div align="center">
+### 3. Hybrid CI/CD & Secure Pipeline (hybrid-ci-cd)
 
-<img src="https://github-readme-stats.vercel.app/api?username=faiz1487&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for faiz1487" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz1487&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for faiz1487" height="170" />
+**Stack:** GitHub Actions, Jenkins, Trivy, Docker, ECR, EKS
 
-</div>
+Short: A hybrid CI/CD workflow demonstrating code scanning, container image build & signing, and automated deploys to EKS with rollback on failed checks.
 
-## 🌃 My 3D Contribution City
+**Repo:** `./hybrid-ci-cd` — contains pipeline YAMLs and example policies.
 
-<div align="center">
+---
 
-*Every contribution helps build the city. Updated daily by GitHub Actions after initial setup.*
+## 📋 How to run (example)
 
-<img src="https://raw.githubusercontent.com/faiz1487/faiz1487/output/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph; appears after the workflow first succeeds" width="100%" />
-
-</div>
-
-> **Setup:** Enable GitHub Actions write permissions and run the included `3D Contribution Graph` workflow once. The graph will not appear until the `output` branch is generated.
-
-## 🗺️ Learning & Development Roadmap
-
-<div align="center">
-<img src="./roadmap.svg" alt="Cloud engineering roadmap" width="100%" />
-</div>
-
-- [ ] Modular Terraform EKS infrastructure with production-minded security defaults
-- [ ] Protected GitHub Actions environments and secrets-management examples
-- [ ] Architecture diagrams and repeatable deployment demos
-- [ ] GitOps deployment examples and enhanced observability
-
-## ▶️ Example: Run the MES Demo
+**Clone the repository:**
 
 ```bash
-# Replace this with the URL of the actual project repository if separate.
-git clone https://github.com/faiz1487/faizan-devops-portfolio.git
-cd faizan-devops-portfolio/mes-project/terraform
-terraform init
-terraform plan -var-file=envs/dev.tfvars
-# Review the plan and expected AWS charges before applying.
-terraform apply -var-file=envs/dev.tfvars
+git clone https://github.com/<your-github>/faizan-devops-portfolio.git
+cd mes-project
 ```
 
-> Commands are illustrative and require the corresponding project files, AWS credentials, and a valid environment configuration. Destroy unused cloud resources to avoid charges.
+**Terraform (example):**
 
-## 💡 Engineering Principles
+```bash
+cd terraform
+terraform init
+terraform plan -var-file=envs/dev.tfvars
+terraform apply -auto-approve -var-file=envs/dev.tfvars
+```
 
-> **Automate what repeats.** Treat infrastructure as code, keep changes reviewable, validate security before release, and build observability into the deployment lifecycle.
+**Ansible (bootstrap example):**
 
-## 📬 Let's Connect
+```bash
+ansible-playbook -i inventory/prod.ini playbooks/deploy.yml --extra-vars "image_tag=latest"
+```
+
+**Generate demo data (simulator):**
+
+```bash
+cd collector
+python3 simulator.py --rate 10
+```
+
+---
+
+## 📈 Observability & Monitoring
+
+Each project includes Prometheus scraping endpoints and Grafana dashboards (JSON in `/monitoring`) plus CloudWatch Logs/metrics integration. See `/monitoring/dashboards.json` for dashboard exports.
+
+---
+
+## ✅ Resume & Contact
+
+* Resume: `Faizan_kaishar_DevOps_Engineer.pdf` (root) in this repo.
+* Email: [faizankaishar95@gmail.com](mailto:faizankaishar95@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/faizan-kaishar-5b53a7235](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
+
+---
+### GitHub Stats
 
 <div align="center">
 
-<img src="./connect.svg" alt="Let's connect" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=faiz1487&show_icons=true&count_private=true&theme=nightowl" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-kaishar-5b53a7235)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://faizankaishar.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankaishar95@gmail.com)
-
-**Automate thoughtfully. Deploy confidently. Monitor continuously.** ⚡
-
+    
 </div>
+
+--- 
+
+## 🤝 Contribution & Feedback
+
+I welcome feedback, issues, and PRs. If you want a live walkthrough or a short demo, reach out via email or LinkedIn and we can schedule a session.
+
+---
+
+## 📌 Notes & Roadmap
+
+* Add Terraform modules for EKS (modularized) and sample IaC templates for production-grade security.
+* Add demo GitHub Actions workflows with secrets and environment protection examples.
+* Add architecture diagrams in `/docs` (PNG + draw.io source) and an interactive README with badges.
+
+---
+
+*Built with ❤️ by Faizan — aiming to bridge manufacturing automation with cloud-native DevOps practices.*
