@@ -49,7 +49,15 @@ I'm **Faizan Kaishar**, a Cloud & DevOps Engineer based in **Noida, Uttar Prades
 
 </div>
 
+<div align="center">
+<img src="./architecture.svg" alt="Cloud infrastructure architecture" width="100%" />
+</div>
+
 ## 📂 Featured DevOps Projects
+
+<div align="center">
+<img src="./projects.svg" alt="Featured engineering projects" width="100%" />
+</div>
 
 > These are project descriptions from my portfolio. Repository links below are relative placeholders until the project folders are published in this profile repository.
 
@@ -61,12 +69,18 @@ I'm **Faizan Kaishar**, a Cloud & DevOps Engineer based in **Noida, Uttar Prades
 
 ## 🔄 DevOps Delivery Lifecycle
 
+<div align="center">
+<img src="./pipeline.svg" alt="Source, build, secure, deploy and monitor delivery pipeline" width="100%" />
+</div>
+
 ```text
 💻 Code → 🧪 Test → 🏗️ Build → 🔐 Scan → 📦 Publish → ☸️ Deploy → 📊 Monitor
    Git        CI        Docker      Trivy        ECR          EKS       Grafana
 ```
 
 ## 📈 GitHub Dashboard
+
+> Stats widgets are third-party services and may be temporarily unavailable or rate-limited.
 
 <div align="center">
 
@@ -89,6 +103,10 @@ I'm **Faizan Kaishar**, a Cloud & DevOps Engineer based in **Noida, Uttar Prades
 
 ## 🗺️ Learning & Development Roadmap
 
+<div align="center">
+<img src="./roadmap.svg" alt="Cloud engineering roadmap" width="100%" />
+</div>
+
 - [ ] Modular Terraform EKS infrastructure with production-minded security defaults
 - [ ] Protected GitHub Actions environments and secrets-management examples
 - [ ] Architecture diagrams and repeatable deployment demos
@@ -107,6 +125,10 @@ terraform apply -var-file=envs/dev.tfvars
 ```
 
 > Commands are illustrative and require the corresponding project files, AWS credentials, and a valid environment configuration. Destroy unused cloud resources to avoid charges.
+
+## 💡 Engineering Principles
+
+> **Automate what repeats.** Treat infrastructure as code, keep changes reviewable, validate security before release, and build observability into the deployment lifecycle.
 
 ## 📬 Let's Connect
 

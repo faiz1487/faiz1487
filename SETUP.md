@@ -10,3 +10,9 @@
 8. Commit changes to the default branch. Profile README appears automatically when the repository name matches your GitHub username.
 
 **Note:** This package does not contain the actual DevOps project source code or the referenced resume PDF. Add them separately only if you want to publish them.
+
+## Premium assets
+
+The additional `architecture.svg`, `pipeline.svg`, `projects.svg`, and `roadmap.svg` are self-contained SVGs (no external fonts or images). They render directly on GitHub. Update the text in each SVG if your project scope changes.
+
+The featured project paths in README are placeholders until those project directories exist; do not imply live demos or verified deployments until published. GitHub stats rely on third-party endpoints.
